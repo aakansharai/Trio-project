@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158124577889",
+    "project_id": "instabloodnow",
+    "storage_bucket": "instabloodnow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158124577889:android:a39267d8a8ea17ceb14620",
+        "android_client_info": {
+          "package_name": "com.example.instabloodnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158124577889-kq7eepfop1eeg64vqsp2oci2vuikkjrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlwDyiz_k4XeGtbfw1QlPqXXdit16r1a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158124577889-kq7eepfop1eeg64vqsp2oci2vuikkjrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

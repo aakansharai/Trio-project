@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_arrow.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/arrow.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/layout_fragment_donation_records.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/layout/fragment_donation_records.xml"
+    },
+    {
+        "merged": "com.example.instabloodnow.app-merged_res-37:/drawable_hamburger.xml.flat",
+        "source": "com.example.instabloodnow.app-main-39:/drawable/hamburger.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/layout_fragment_home_sweet_home.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/layout/fragment_home_sweet_home.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_scroll.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/scroll.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/font_actor.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/font/actor.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_close.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/close.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_send_request_btn.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/send_request_btn.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/layout_fragment_sign_out.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/layout/fragment_sign_out.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/font_asap_medium.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/font/asap_medium.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_blood.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/blood.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_create_account_btn.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/create_account_btn.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_logo_text.png.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/logo_text.png"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/menu_side_nav.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/menu/side_nav.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_blood_kid.png.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/blood_kid.png"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/font_encode_sans_semibold.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/font/encode_sans_semibold.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/layout_nav_header.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/layout/nav_header.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_notification.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/notification.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_logo_img.png.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/logo_img.png"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_image4.jpg.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/image4.jpg"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/layout_fragment_donation_rewards.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/layout/fragment_donation_rewards.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_baseline_notifications_active_24.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/baseline_notifications_active_24.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_homeshome.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/homeshome.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_drop_down.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/drop_down.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/layout_activity_sign_in.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/layout_donnee_list.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/layout/donnee_list.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_search.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/search.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_rewards.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/rewards.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_logo.png.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_go_back.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/go_back.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/layout_activity_user_home.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/layout/activity_user_home.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/layout_activity_registration.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_logout.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/logout.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/font_comfortaa.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/font/comfortaa.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_deny.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/deny.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_edit.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/edit.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_blood_donation.jpg.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/blood_donation.jpg"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/layout_fragment_notification.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/layout/fragment_notification.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_buttons_normal.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/buttons_normal.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/font_comfortaa_bold.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/font/comfortaa_bold.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/layout_fragment_profile.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_buttons.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/buttons.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/drawable_user.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/drawable/user.xml"
+    },
+    {
+        "merged": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-merged_res-37:/layout_donation_records.xml.flat",
+        "source": "/Users/aakansharai/.gradle/daemon/8.0/com.example.instabloodnow.app-main-39:/layout/donation_records.xml"
+    }
+]

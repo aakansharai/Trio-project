@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <item android:title="Find Donnee">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:title="Home"
+                    android:id="@+id/HomeMainHome"
+                    android:icon="@drawable/homeshome"/>
+
+            </group>
+        </menu>
+
+    </item>
+
+    <item android:title="Account">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/profile"
+                    android:icon="@drawable/user"
+                    android:title="Profile"/>
+
+                <item
+                    android:id="@+id/rewards"
+                    android:icon="@drawable/rewards"
+                    android:iconTint="@color/green"
+                    android:title="Rewards"/>
+
+                <item
+                    android:id="@+id/RecordsOfDonation"
+                    android:icon="@drawable/blood"
+                    android:iconTint="@color/red"
+                    android:title="Donation Records"/>
+
+                <item
+                    android:id="@+id/Notifications"
+                    android:icon="@drawable/notification"
+                    android:title="Notifications"
+                    android:tooltipText="yes"
+                    app:showAsAction="always"/>
+            </group>
+
+        </menu>
+    </item>
+
+
+    <item android:title="Login Info">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/SignOut"
+                    android:icon="@drawable/logout"
+                    android:title="Sign Out"/>
+            </group>
+
+        </menu>
+    </item>
+
+
+
+
+</menu>

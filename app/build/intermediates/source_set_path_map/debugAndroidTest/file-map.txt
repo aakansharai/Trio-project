@@ -1,0 +1,6 @@
+com.example.instabloodnow.test.app-annotation-experimental-1.3.0-0 /Users/aakansharai/.gradle/caches/transforms-3/551a69fdb6258fdd07aa00ab4e980112/transformed/annotation-experimental-1.3.0/res
+com.example.instabloodnow.test.app-core-1.5.0-1 /Users/aakansharai/.gradle/caches/transforms-3/63f36c5834132beac8d00094db5b50de/transformed/core-1.5.0/res
+com.example.instabloodnow.test.app-androidTest-2 /Users/aakansharai/AndroidStudioProjects/InstaBloodNow/app/build/generated/res/resValues/androidTest/debug
+com.example.instabloodnow.test.app-mergeDebugAndroidTestResources-3 /Users/aakansharai/AndroidStudioProjects/InstaBloodNow/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.instabloodnow.test.app-mergeDebugAndroidTestResources-4 /Users/aakansharai/AndroidStudioProjects/InstaBloodNow/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.instabloodnow.test.app-merged_res-5 /Users/aakansharai/AndroidStudioProjects/InstaBloodNow/app/build/intermediates/merged_res/debugAndroidTest

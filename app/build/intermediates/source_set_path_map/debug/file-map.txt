@@ -1,0 +1,40 @@
+com.example.instabloodnow.app-core-ktx-1.9.0-0 /Users/aakansharai/.gradle/caches/transforms-3/00c4cf24d6ecd9d2f66be1696ff5f627/transformed/core-ktx-1.9.0/res
+com.example.instabloodnow.app-lifecycle-runtime-2.5.1-1 /Users/aakansharai/.gradle/caches/transforms-3/0a2e76b293e5c4a59f921c5ff2c9a7d9/transformed/lifecycle-runtime-2.5.1/res
+com.example.instabloodnow.app-glide-4.11.0-2 /Users/aakansharai/.gradle/caches/transforms-3/1065209e0319322e322f64db163e1e0e/transformed/glide-4.11.0/res
+com.example.instabloodnow.app-constraintlayout-2.1.4-3 /Users/aakansharai/.gradle/caches/transforms-3/127196899adbfd128784816b1be72f52/transformed/constraintlayout-2.1.4/res
+com.example.instabloodnow.app-core-1.9.0-4 /Users/aakansharai/.gradle/caches/transforms-3/29c5439ad728192ecf530ff97f7b1b31/transformed/core-1.9.0/res
+com.example.instabloodnow.app-emoji2-views-helper-1.2.0-5 /Users/aakansharai/.gradle/caches/transforms-3/2ce662fd20a9447fb8e878c305184dbc/transformed/emoji2-views-helper-1.2.0/res
+com.example.instabloodnow.app-recyclerview-1.1.0-6 /Users/aakansharai/.gradle/caches/transforms-3/31bded842a6473fe81c1d32284311a93/transformed/recyclerview-1.1.0/res
+com.example.instabloodnow.app-startup-runtime-1.1.1-7 /Users/aakansharai/.gradle/caches/transforms-3/37b71af0bc9deda145d2d027954b5c42/transformed/startup-runtime-1.1.1/res
+com.example.instabloodnow.app-emoji2-1.2.0-8 /Users/aakansharai/.gradle/caches/transforms-3/3ea275dff85316234d64d5c17e2d8770/transformed/emoji2-1.2.0/res
+com.example.instabloodnow.app-lifecycle-viewmodel-savedstate-2.5.1-9 /Users/aakansharai/.gradle/caches/transforms-3/3fe9d6c2849cf1748221b5c35b24fb7e/transformed/lifecycle-viewmodel-savedstate-2.5.1/res
+com.example.instabloodnow.app-viewpager2-1.0.0-10 /Users/aakansharai/.gradle/caches/transforms-3/44d3107f74417d3295bbcb767820d83d/transformed/viewpager2-1.0.0/res
+com.example.instabloodnow.app-browser-1.4.0-11 /Users/aakansharai/.gradle/caches/transforms-3/4cdc0c6cd2ec8309a9917a0cd4f0b601/transformed/browser-1.4.0/res
+com.example.instabloodnow.app-cardview-1.0.0-12 /Users/aakansharai/.gradle/caches/transforms-3/4fa19abdc9fb3742e467a057765a739a/transformed/cardview-1.0.0/res
+com.example.instabloodnow.app-lifecycle-viewmodel-2.5.1-13 /Users/aakansharai/.gradle/caches/transforms-3/534b7105da2b20f80030ef13db3634e6/transformed/lifecycle-viewmodel-2.5.1/res
+com.example.instabloodnow.app-annotation-experimental-1.3.0-14 /Users/aakansharai/.gradle/caches/transforms-3/551a69fdb6258fdd07aa00ab4e980112/transformed/annotation-experimental-1.3.0/res
+com.example.instabloodnow.app-lifecycle-process-2.4.1-15 /Users/aakansharai/.gradle/caches/transforms-3/5e88de1d94d9252d239814f03f72f30b/transformed/lifecycle-process-2.4.1/res
+com.example.instabloodnow.app-savedstate-1.2.0-16 /Users/aakansharai/.gradle/caches/transforms-3/5ea834076ff9b41e9c6d960fd18d699d/transformed/savedstate-1.2.0/res
+com.example.instabloodnow.app-appcompat-1.6.1-17 /Users/aakansharai/.gradle/caches/transforms-3/6749e82180bec1f2db8e601d0b6ac361/transformed/appcompat-1.6.1/res
+com.example.instabloodnow.app-drawerlayout-1.1.1-18 /Users/aakansharai/.gradle/caches/transforms-3/67cf516d8ad016e4471b6cc4170c954f/transformed/drawerlayout-1.1.1/res
+com.example.instabloodnow.app-activity-1.6.0-19 /Users/aakansharai/.gradle/caches/transforms-3/7c852c872ca1bb4f1b0cc719e62e2f4b/transformed/activity-1.6.0/res
+com.example.instabloodnow.app-media-1.0.0-20 /Users/aakansharai/.gradle/caches/transforms-3/81c699e848dc1125515a0d61ac62285f/transformed/media-1.0.0/res
+com.example.instabloodnow.app-material-1.5.0-21 /Users/aakansharai/.gradle/caches/transforms-3/852a96200a86119a574120ef1e17288d/transformed/material-1.5.0/res
+com.example.instabloodnow.app-lifecycle-livedata-core-2.5.1-22 /Users/aakansharai/.gradle/caches/transforms-3/8fde6865c09b2cdeef80123f1edd912a/transformed/lifecycle-livedata-core-2.5.1/res
+com.example.instabloodnow.app-fragment-1.3.6-23 /Users/aakansharai/.gradle/caches/transforms-3/96faabac801206b8aee3fd8c359f6e65/transformed/fragment-1.3.6/res
+com.example.instabloodnow.app-play-services-basement-18.1.0-24 /Users/aakansharai/.gradle/caches/transforms-3/b9d0344364cb797cae21e7f49407fa91/transformed/play-services-basement-18.1.0/res
+com.example.instabloodnow.app-play-services-base-18.1.0-25 /Users/aakansharai/.gradle/caches/transforms-3/c581f8843247c91cecf5f241b6dd70ac/transformed/play-services-base-18.1.0/res
+com.example.instabloodnow.app-circleimageview-3.1.0-26 /Users/aakansharai/.gradle/caches/transforms-3/c5936c602fae27b10a8496745d33f251/transformed/circleimageview-3.1.0/res
+com.example.instabloodnow.app-firebase-common-20.3.2-27 /Users/aakansharai/.gradle/caches/transforms-3/ce386c086cbb66a333155fa21c4873c9/transformed/firebase-common-20.3.2/res
+com.example.instabloodnow.app-appcompat-resources-1.6.1-28 /Users/aakansharai/.gradle/caches/transforms-3/e4c17b656a7fc8819010656e5583bc4f/transformed/appcompat-resources-1.6.1/res
+com.example.instabloodnow.app-coordinatorlayout-1.1.0-29 /Users/aakansharai/.gradle/caches/transforms-3/f1d67c120261a6a4b8fb26c2d31951f1/transformed/coordinatorlayout-1.1.0/res
+com.example.instabloodnow.app-transition-1.2.0-30 /Users/aakansharai/.gradle/caches/transforms-3/f48a683faccadcefb6bb614c6ceec609/transformed/transition-1.2.0/res
+com.example.instabloodnow.app-firebase-inappmessaging-display-20.2.0-31 /Users/aakansharai/.gradle/caches/transforms-3/f69d2f1224f9f35b43d4b4b2561a221e/transformed/firebase-inappmessaging-display-20.2.0/res
+com.example.instabloodnow.app-google-services-32 /Users/aakansharai/Downloads/InstaBloodNow 2/app/build/generated/res/google-services/debug
+com.example.instabloodnow.app-pngs-33 /Users/aakansharai/Downloads/InstaBloodNow 2/app/build/generated/res/pngs/debug
+com.example.instabloodnow.app-resValues-34 /Users/aakansharai/Downloads/InstaBloodNow 2/app/build/generated/res/resValues/debug
+com.example.instabloodnow.app-packageDebugResources-35 /Users/aakansharai/Downloads/InstaBloodNow 2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.instabloodnow.app-packageDebugResources-36 /Users/aakansharai/Downloads/InstaBloodNow 2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.instabloodnow.app-merged_res-37 /Users/aakansharai/Downloads/InstaBloodNow 2/app/build/intermediates/merged_res/debug
+com.example.instabloodnow.app-debug-38 /Users/aakansharai/Downloads/InstaBloodNow 2/app/src/debug/res
+com.example.instabloodnow.app-main-39 /Users/aakansharai/Downloads/InstaBloodNow 2/app/src/main/res
